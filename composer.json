@@ -1,11 +1,11 @@
 {
-    "name": "orangesir/larvel-doc",
-    "description": "larvel doc and test html",
+    "name": "osindex/larvel-doc",
+    "description": "laravel doc and test html",
     "type": "library",
     "minimum-stability": "dev",
     "require": {
         "php": ">=7.0.0",
-        "laravel/framework": ">=5.5.0",
+        "laravel/framework": ">=5.5.0"
     },
     "autoload": {
         "psr-4": {
